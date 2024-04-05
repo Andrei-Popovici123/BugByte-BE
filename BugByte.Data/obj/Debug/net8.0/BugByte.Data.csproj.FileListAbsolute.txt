@@ -1,0 +1,13 @@
+C:\repos2\BugByte-BE\BugByte.Data\bin\Debug\net8.0\BugByte.Data.deps.json
+C:\repos2\BugByte-BE\BugByte.Data\bin\Debug\net8.0\BugByte.Data.dll
+C:\repos2\BugByte-BE\BugByte.Data\bin\Debug\net8.0\BugByte.Data.pdb
+C:\repos2\BugByte-BE\BugByte.Data\obj\Debug\net8.0\BugByte.Data.csproj.AssemblyReference.cache
+C:\repos2\BugByte-BE\BugByte.Data\obj\Debug\net8.0\BugByte.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos2\BugByte-BE\BugByte.Data\obj\Debug\net8.0\BugByte.Data.AssemblyInfoInputs.cache
+C:\repos2\BugByte-BE\BugByte.Data\obj\Debug\net8.0\BugByte.Data.AssemblyInfo.cs
+C:\repos2\BugByte-BE\BugByte.Data\obj\Debug\net8.0\BugByte.Data.csproj.CoreCompileInputs.cache
+C:\repos2\BugByte-BE\BugByte.Data\obj\Debug\net8.0\BugByte.Data.sourcelink.json
+C:\repos2\BugByte-BE\BugByte.Data\obj\Debug\net8.0\BugByte.Data.dll
+C:\repos2\BugByte-BE\BugByte.Data\obj\Debug\net8.0\refint\BugByte.Data.dll
+C:\repos2\BugByte-BE\BugByte.Data\obj\Debug\net8.0\BugByte.Data.pdb
+C:\repos2\BugByte-BE\BugByte.Data\obj\Debug\net8.0\ref\BugByte.Data.dll
