@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BugByte-BE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b081356ae396055a66c253008441339d1b0995e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BugByte-BE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BugByte-BE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

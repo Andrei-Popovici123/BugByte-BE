@@ -28,3 +28,11 @@ C:\repos2\BugByte-BE\BugByte-BE\obj\Debug\net8.0\refint\BugByte-BE.dll
 C:\repos2\BugByte-BE\BugByte-BE\obj\Debug\net8.0\BugByte-BE.pdb
 C:\repos2\BugByte-BE\BugByte-BE\obj\Debug\net8.0\BugByte-BE.genruntimeconfig.cache
 C:\repos2\BugByte-BE\BugByte-BE\obj\Debug\net8.0\ref\BugByte-BE.dll
+C:\repos2\BugByte-BE\BugByte-BE\obj\Debug\net8.0\BugByte-BE.sourcelink.json
+C:\repos2\BugByte-BE\BugByte-BE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\repos2\BugByte-BE\BugByte-BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\repos2\BugByte-BE\BugByte-BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\repos2\BugByte-BE\BugByte-BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\repos2\BugByte-BE\BugByte-BE\obj\Debug\net8.0\BugByte-BE.csproj.AssemblyReference.cache
+C:\repos2\BugByte-BE\BugByte-BE\obj\Debug\net8.0\BugByte-BE.MvcApplicationPartsAssemblyInfo.cs
+C:\repos2\BugByte-BE\BugByte-BE\obj\Debug\net8.0\BugByte-BE.csproj.Up2Date
