@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BugByte.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61b1e8c570db25d6f3ac77805cd2a57e66ee5a82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2582c77e2bb7bda0242b756c4890ee6cf4e6313b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BugByte.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BugByte.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
